@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Nettensor Mainnet",
+    "url": "https://mainnet.nettensor.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/devtesttensor/frontend-configs/master/configs/network-icons/nao.svg",
+    "invertIconInDarkMode": true
+  },
+  {
+    "title": "Nettensor Testnet",
+    "url": "http://testnet.nettensor.network/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/devtesttensor/frontend-configs/master/configs/network-icons/nao.svg",
+    "isActive": true,
+    "invertIconInDarkMode": true
+  }
+]
